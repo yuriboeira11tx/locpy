@@ -67,7 +67,7 @@ try:
 	
 	print('\n\033[01;31mPaís: \033[01;32m{}\033[01;31m'.format(end[2]))
 	print('Região: \033[01;32m{}\033[01;31m'.format(end[1]))
-	print('Cidade: \033[01;32m{}\033[01;31m'.format(end[0]))
+	print('Cidade: \033[01;32m{}\033[01;31m'.format(dados_finais[2]))
 	print('Latitude: \033[01;32m{}\033[01;31m'.format(end[3]))
 	print('Longitude: \033[01;32m{}\033[01;31m'.format(end[4]))
 	print('Provedor: \033[01;32m{}\033[01;31m'.format(dados_finais[3]))
